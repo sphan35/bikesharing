@@ -27,3 +27,8 @@
 **Trip Duration for NYC Citibike Users based on Gender**
     - Depicted below is a data visualization that tracks the number of bikes used and how long they are used by the time of hour and amount of minutes they are used based on noted gender or unknown users. The trip duration data visualization tracks at what time of hour males, females, or unknown riders rode their bikes, and how many minutes they rode their bikes. The discrete line graph showcases that males rode much longer on Citibike and that the hours of 5 and 6 were again prime riding hours for male and females. The Unknown riders had a flat constant discrete line. A filter of the hour of tripduration and gender and unknown riders was added to provide customization.
 ![](images/trip_duration_by_gender.png)
+
+
+**Trips by Gender (Weekday per Hour)**
+
+![](images/trips_gender_weekday_hour.png)
