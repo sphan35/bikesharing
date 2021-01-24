@@ -1,4 +1,6 @@
 # Bikesharing
+[link to dashboard](https://public.tableau.com/profile/sean.phan#!/vizhome/NYC_Citi_Bike_Challenge_16114284959350/Story1)
+
 
 ## Overview of the NYC Citibike Analysis
 
