@@ -29,6 +29,10 @@
 ![](images/trip_duration_by_gender.png)
 
 
-**Trips by Gender (Weekday per Hour)**
+**Trips by all Riders (Weekday per Hour)**
     - Depcited below is a data visualization that uses a heat map to capture how many riders use the Citibike service during each weekday and at what time of day. The heat map visualization allows the audience to see the busiest usage time of Citibike during which weekday and at what time by how the darker gold color represents a lot of users and the lighter orange represents smaller number of users.
 ![](images/trips_gender_weekday_hour.png)
+
+**Trips by Gender (Weekday per Hour)**
+    - Depcited below is a data visualization that uses a heat map to capture how many female, male, and unknown riders use the Citibike service during each weekday and at what time of day. The heat map visualization allows the audience to see the busiest usage time of Citibike during which weekday and at what time by how the darker gold color represents a lot of users and the lighter orange represents smaller number of users. A filter of "Number to String" is available to edit between all, female, male, or unknown users of the citibike app. It is called "Number to string" as the original "Gender" column was converted from using "0 to 1" indicators to "Unknown, female, or male". 
+![](images/trips_specific_gender_weekday_hour.png)
