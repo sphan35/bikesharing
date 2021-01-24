@@ -18,3 +18,7 @@
     - Depicted below is a data visualization that used the NYC Citibike data for its columns to depict the tens of thousandands who use the citibike service throughout the day. The horizontal bars showcase the amount of users using citibike each hour of the day, and the audience can see that the times of 5pm to 7pm are the top riding hours for Citibike and 2AM to 5AM is when Citibike is rarely used.
 ![](images/Hour_of_day.png) 
 
+
+**Trip Duration for NYC Citibike Users**
+    - Depicted below is a data visualization that tracks the number of bikes used and how long they are used by the time of hour and amount of minutes they are used. The trip duration data visualization tracks at what time of hour users rode their bikes from, and how many minutes they rode their bikes. The discrete line graph showcases that during the hour of 5 or 6, users of citibike rode the longest during these hours. A filter of the hour of tripduration was added to provide customization.
+![](images/trip_duration.png)
